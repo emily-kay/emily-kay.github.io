@@ -65,3 +65,7 @@ video {
 a:link {
 color: #C3C3C3;
 }
+
+ul {
+  list-style-type: none;
+}
