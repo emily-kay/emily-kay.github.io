@@ -49,3 +49,17 @@ video {
 .nav h1 {
   padding-left: 20px;
 }
+
+.homepage {
+	background-color: white;
+	height: 100%;
+	text-align: center;
+	width: 100%;
+	margin-left: auto;
+   	margin-right: auto;
+	text-color:#7F7F7F
+}
+
+a:link {
+color: #C3C3C3;
+}
