@@ -27,7 +27,7 @@ div {
 
 video {
   background-color: #000000;
-  border: 2px solid black;
+  border: 2px solid #000000;
 }
 
 .container {
@@ -51,7 +51,7 @@ video {
 }
 
 .homepage {
-	background-color: white;
+	background-color:#C8BFE7;
 	height: 100%;
 	text-align: center;
 	width: 100%;
@@ -59,7 +59,7 @@ video {
    	margin-right: auto;
 	margin-top: auto;
 	margin-bottom: auto;
-	text-color:#7F7F7F
+	text-color:#F5F5F5
 }
 
 a:link {
