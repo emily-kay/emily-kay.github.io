@@ -63,7 +63,13 @@ video {
 }
 
 a:link {
-color: #C3C3C3;
+   color: #C3C3C3;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #C3C3C3 
+   text-decoration: none;
 }
 
 ul {
