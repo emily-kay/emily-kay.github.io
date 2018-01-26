@@ -66,13 +66,11 @@ video {
 }
 
 .homepage {
-	background-color:#C8BFE7;
 	height: 100%, 70px;
 	text-align: center;
 	width: 100%;
 	margin-left: auto;
    	margin-right: auto;
-	text-color:#F5F5F5
 }
 
 a:link {
