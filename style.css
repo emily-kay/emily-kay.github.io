@@ -74,12 +74,16 @@ video {
 }
 
 a:link {
-   color: #C3C3C3;
+   color: #000;
    text-decoration: none;
 }
 
+a:hover {
+    color: #CCC;
+}
+
 a:visited {
-   color: #C3C3C3 
+   color: #000; 
    text-decoration: none;
 }
 
