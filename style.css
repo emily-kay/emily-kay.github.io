@@ -97,3 +97,7 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
+
+.boxed {
+  border: 3px solid #ccc ;
+}
